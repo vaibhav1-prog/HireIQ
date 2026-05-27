@@ -44,7 +44,7 @@ cd HireIQ
 ```bash
 cd backend
 npm install
-npm start
+npm start/ npm run dev
 ```
 
 ### Frontend Setup
